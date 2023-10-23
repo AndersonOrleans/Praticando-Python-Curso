@@ -88,4 +88,9 @@ Primeiro: Ana
     - O segundo valor é maior.
     - Não existe valor maior, os dois são iguais.
 
-38) Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo de alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo. 
+38) Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo de alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+
+39) Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+    - Média abaixo de 5.0: REPROVADO.
+    - Média antre 5.0 e 6.9: RECUPERAÇÃO.
+    - Média 7.0 ou superior: APROVADO. 
