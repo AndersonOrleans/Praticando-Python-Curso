@@ -93,4 +93,11 @@ Primeiro: Ana
 39) Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
     - Média abaixo de 5.0: REPROVADO.
     - Média antre 5.0 e 6.9: RECUPERAÇÃO.
-    - Média 7.0 ou superior: APROVADO. 
+    - Média 7.0 ou superior: APROVADO.
+
+40) A confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+    - Até 9 anos: Mirim
+    - Até 14 anos: Infantil
+    - Até 19 anos: Junior
+    - Até 25 anos: Sênior
+    - Acima: Master
